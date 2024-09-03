@@ -55,11 +55,82 @@ The project's primary goal is to create structures of various heights using the 
 
 ---
 
-## Multiple-Objective Routing Path Optimisation
-The goal is to find optimal routing paths from cars to base stations at either end of a motorway. The objectives are to maximise end-to-end data transmission rate and minimise end-to-end latency. The project employs Dijkstra’s and Genetic optimisation algorithms
+## Chat Application
+Developed a real-time chat application using Swift UI and Firebase. The app featured user registration and authentication through Firebase Authentication, a modern Swift UI interface for chat conversations and settings, real-time messaging functionality integrated with Firebase Realtime Database or Cloud Firestore, and user-specific databases for storing and retrieving messages. Key components included secure user authentication, responsive UI design with Swift UI, real-time messaging implementation, user-specific data separation, and profile management. Technologies used were Swift UI, XCode, Firebase Authentication, Firebase Realtime Database/Cloud Firestore, Swift, and Git
 
-- **Skills** _Python, Data Analysis_
-- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/Search-and-Optimisation/blob/main/Search_Optimisation_Final%5B1%5D.ipynb)
+- **Skills** _Swift UI, XCode_, _Firebase_, _Git_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/yip-yip) 
+
+
+---
+
+## Digital Alarm Clock using Arduino Microcontroller
+In this project, a digital alarm clock using an Arduino microcontroller was built. The clock has different functionalities implemented in it, such as showing the temperature, switching between 12H and 24H modes, setting up the values for current time and alarm time, etc. via the use of buttons.
+
+- **Skills** _Arduino IDE, C++ ,Tinkercad_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/lcd-screen)
+
+---
+
+## Library Database Management System
+Library Management System is a credible, efficient system for handling large amounts and multiple types of data which provides quick access to safe information. In this project, we designed and implemented an E-R diagram, a database schema diagram, create table statements, insert into statements, and sql queries.
+
+- **Skills** _SQL_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/LibraryManagementDatabase/blob/main/Library%20Database.pdf) 
+
+
+---
+
+## Question-Answering System
+In this project, we implemented a simple question answering algorithm with C++. There are 3 different files, questions are in the question.txt file, the_truman_show_script.txt file is the text we are searching the answers for, and an answers.txt file which includes the answers of the questions. All questions have answers. The average speed of this algorithm is between 20 – 50 milliseconds. There are three main important functions that includes string matching methods and the complexity
+
+- **Skills** _C++_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/Question-Answering-System)
+
+
+---
+
+## Reader - Writer Problem 
+A solution to readers-writers problem in which several processes (readers and writers) are trying to access shared variables. If two readers access the shared data simultaneously, no adverse effects will result, hence, they are allowed to access. However, if a writer and some other process (either a reader or a writer) access the data simultaneously, chaos may ensue. To ensure that these difficulties do not arise, we require that the writers have exclusive access to the shared data while writing to the data.
+
+- **Skills** _Java_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/Reader-Writer-Problem)
+
+
+---
+
+## P2P File Sharing Application
+The project is about designing and implementing a peer-to-peer file sharing application with Python 3. There are four processes: Chunk_Announcer which connects to the Local Area Network,every peer starts to periodically broadcast the list of all files they have. Chunk_Discovery after connecting to the LAN, every node also starts listening for peers announcements. Upon hearing an announcement, the contents are stored in a local dictionary of “which users have which files”. Chunk_Downloader , in this process the end user specifies a content to download, and the downloading process looks up its local dictionary to see which users have the chunks of that content. Then it launches TCP sessions with the users that hold subparts of the requested file, to download all subparts of that file. and lastly Chunk_Uploader will receive the requested content via TCP connection and it will be downloaded both as chunks and as a merged file. Thanks to this project, i have a better understanding of how a network application operates and what are the technologies behind it.
+
+- **Skills** _Python_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/peer2peer)
+
+
+---
+
+## Chat Application
+Developed a real-time chat application using Swift UI and Firebase. The app featured user registration and authentication through Firebase Authentication, a modern Swift UI interface for chat conversations and settings, real-time messaging functionality integrated with Firebase Realtime Database or Cloud Firestore, and user-specific databases for storing and retrieving messages. Key components included secure user authentication, responsive UI design with Swift UI, real-time messaging implementation, user-specific data separation, and profile management. Technologies used were Swift UI, XCode, Firebase Authentication, Firebase Realtime Database/Cloud Firestore, Swift, and Git
+
+- **Skills** _Swift UI, XCode_, _Firebase_, _Git_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/yip-yip) 
+
+
+---
+
+## Chat Application
+Developed a real-time chat application using Swift UI and Firebase. The app featured user registration and authentication through Firebase Authentication, a modern Swift UI interface for chat conversations and settings, real-time messaging functionality integrated with Firebase Realtime Database or Cloud Firestore, and user-specific databases for storing and retrieving messages. Key components included secure user authentication, responsive UI design with Swift UI, real-time messaging implementation, user-specific data separation, and profile management. Technologies used were Swift UI, XCode, Firebase Authentication, Firebase Realtime Database/Cloud Firestore, Swift, and Git
+
+- **Skills** _Swift UI, XCode_, _Firebase_, _Git_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/yip-yip) 
+
+
+---
+
+## Chat Application
+Developed a real-time chat application using Swift UI and Firebase. The app featured user registration and authentication through Firebase Authentication, a modern Swift UI interface for chat conversations and settings, real-time messaging functionality integrated with Firebase Realtime Database or Cloud Firestore, and user-specific databases for storing and retrieving messages. Key components included secure user authentication, responsive UI design with Swift UI, real-time messaging implementation, user-specific data separation, and profile management. Technologies used were Swift UI, XCode, Firebase Authentication, Firebase Realtime Database/Cloud Firestore, Swift, and Git
+
+- **Skills** _Swift UI, XCode_, _Firebase_, _Git_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/yip-yip) 
 
 
 ---
