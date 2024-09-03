@@ -7,7 +7,7 @@
 main:
     
   - title: "Projects"
-    url: /_projects/projects
+    url: https://github.com/yasemxn/portfolioo/blob/master/_projects/projects
 
   - title: "Research"
   #  url: /publications/
