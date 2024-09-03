@@ -2,6 +2,7 @@
 layout: single  # or 'default', depending on your theme
 title: "Projects"
 permalink: /projects/
+author_profile: true
 sidebar:
   - navigation  # This line ensures the sidebar is displayed
 ---
