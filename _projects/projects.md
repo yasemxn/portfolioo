@@ -10,7 +10,8 @@ sidebar:
 ## Generative AI in the Enterprise as a Co-Worker for Tech Support (Google-sponsored Dissertation)
 I developed a hybrid AI-human model utilising the OODA loop framework, which significantly improved decision-making, response times, and customer satisfaction in tech support. To enhance transparency and trust, I applied explainable AI methodologies like LIME, promoting effective collaboration between AI systems and support engineers. In partnership with Google, I refined data schemas and AI models, applying machine learning techniques such as logistic regression, random forests, and support vector machines to automate and optimise tech support tasks
 
-- **Technologies Used:** _Python, machine learning, XAI_
+
+- **Skills** _Python, NLP, Data Science, Exploratory Data Analysis, Machine Learning, XAI_
 
 ---
 
@@ -23,17 +24,17 @@ In this project, I employed a variety of artificial intelligence (AI) techniques
 ---
 
 ## Data Processing and Analytics
-For this project, I played a pivotal role in designing and implementing a multifaceted database system from an initial Entity-Relationship model to its realisation in SQL, MongoDB, and Neo4J, focused on art gallery management. My responsibilities included crafting and evaluating numerous SQL and MongoDB test cases to ensure database functionality, enhancing data retrieval efficiency, and system robustness. Additionally, I applied advanced machine learning techniques, such as neural networks and random forests, to analyse datasets, performed feature selection, and employed PCA for dimensionality reduction, which significantly optimized model performance. My active participation in team discussions and detailed report documentation ensured that the project met academic standards and facilitated effective knowledge transfer.
+For this project, I played a role in designing and implementing a multifaceted database system from an initial Entity-Relationship model to its realisation in SQL, MongoDB, and Neo4J, focused on art gallery management. My responsibilities included crafting and evaluating numerous SQL and MongoDB test cases to ensure database functionality, enhancing data retrieval efficiency, and system robustness. Additionally, I applied advanced machine learning techniques, such as neural networks and random forests, to analyse datasets, performed feature selection, and employed PCA for dimensionality reduction, which significantly optimised model performance.
 
-- **Skills** _Python, Data Analysis, SQL, MongoDB, Database Management, Neo4J_
+- **Skills** _Python, Data Analysis, SQL, MongoDB, Database Management, Neo4J_ 
 - **Github** [View the project on GitHub](https://github.com/yasemxn/data-processing-and-analytics/blob/main/DPA_Project_Report_Final%5B1%5D%20(1).pdf)
 
 ---
 
 ## Multiple-Objective Routing Path Optimisation
-The goal is to find optimal routing paths from cars to base stations at either end of a motorway. The objectives are to maximise end-to-end data transmission rate and minimise end-to-end latency. The project employs Dijkstra’s and Genetic optimisation algorithms
+The goal is to find optimal routing paths from cars to base stations at either end of a motorway. The objectives are to maximise end-to-end data transmission rate and minimise end-to-end latency. The project employs Dijkstra’s and Genetic optimisation algorithms.
 
-- **Skills** _Python, Data Analysis_
+- **Skills** _Python, Data Analysis, Data Visualisation, Algorithm Analysis_
 - **GitHub:** [View the project on GitHub](https://github.com/yasemxn/Search-and-Optimisation/blob/main/Search_Optimisation_Final%5B1%5D.ipynb)
 
 
