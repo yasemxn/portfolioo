@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there! I'm Yasemin"
+title: "👋🏻 Hello there! I'm Yasemin"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,19 +9,19 @@ redirect_from:
 
 About Me
 ------
-Highly motivated computer engineering graduate with a strong foundation in programming and systems design, currently pursuing an MSc. in Data Science and Artificial Intelligence. My dissertation, sponsored by Google, focuses on "Generative AI in the Enterprise as a Co-Worker for Tech Support" I bring a structured, energetic, collaborative work style with excellent communication skills to improve and optimise processes. I possess strong critical thinking, problem-solving, and time management skills, allowing me to effectively utilise my technical expertise for a career in AI development and data science. I've been able to apply my academic learning in practical settings and have made significant contributions to project successes. I'm eager to advance further and tackle new challenges in this field.
+Motivated graduate with a BSc in Computer Engineering and an MSc in Data Science and AI, with a dissertation on "Generative AI in the Enterprise as a Co-worker for Tech Support," sponsored by Google. I bring strong programming, systems design, and problem-solving skills, along with a structured, collaborative work style. My academic knowledge has been applied in real-world projects, contributing to successful projects, and I'm excited to embrace new challenges in the area.
 
 Education
 ------
 <b>Bournemouth University</b> <br/>
 MSc. in Data Science and Artificial Intelligence <br/>
-_September 2023 - September 2024_ <br/>
+_Sep 2023 - Sep 2024_ <br/>
 _Distinction_ <br/>
 _Dissertation sponsored by Google_ <br/>
 
 <b> Bahcesehir University </b> <br/>
 BSc. in Computer Engineering and Science <br/>
-_September 2018 - July 2023_ <br/>
+_Sep 2018 - Jul 2023_ <br/>
 Grade: 3.00 <br/>
 
 Work Experience
