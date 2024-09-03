@@ -108,35 +108,37 @@ The project is about designing and implementing a peer-to-peer file sharing appl
 
 ---
 
-## Chat Application
-Developed a real-time chat application using Swift UI and Firebase. The app featured user registration and authentication through Firebase Authentication, a modern Swift UI interface for chat conversations and settings, real-time messaging functionality integrated with Firebase Realtime Database or Cloud Firestore, and user-specific databases for storing and retrieving messages. Key components included secure user authentication, responsive UI design with Swift UI, real-time messaging implementation, user-specific data separation, and profile management. Technologies used were Swift UI, XCode, Firebase Authentication, Firebase Realtime Database/Cloud Firestore, Swift, and Git
+## Space War Game
+In this project, we implemented a simple JAVA game with the following scenario: You must protect the world from alien invasion. You have a spaceship, and you need hit aliens’ ships but there is a barricade for protect to aliens. Hitting all the alien results in completing the level and going to the next. Angle affect your shoot. There are 3 levels to complete.
 
-- **Skills** _Swift UI, XCode_, _Firebase_, _Git_
-- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/yip-yip) 
-
-
----
-
-## Chat Application
-Developed a real-time chat application using Swift UI and Firebase. The app featured user registration and authentication through Firebase Authentication, a modern Swift UI interface for chat conversations and settings, real-time messaging functionality integrated with Firebase Realtime Database or Cloud Firestore, and user-specific databases for storing and retrieving messages. Key components included secure user authentication, responsive UI design with Swift UI, real-time messaging implementation, user-specific data separation, and profile management. Technologies used were Swift UI, XCode, Firebase Authentication, Firebase Realtime Database/Cloud Firestore, Swift, and Git
-
-- **Skills** _Swift UI, XCode_, _Firebase_, _Git_
-- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/yip-yip) 
+- **Skills** _Java_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/Space-War-Game)
 
 
 ---
 
-## Chat Application
-Developed a real-time chat application using Swift UI and Firebase. The app featured user registration and authentication through Firebase Authentication, a modern Swift UI interface for chat conversations and settings, real-time messaging functionality integrated with Firebase Realtime Database or Cloud Firestore, and user-specific databases for storing and retrieving messages. Key components included secure user authentication, responsive UI design with Swift UI, real-time messaging implementation, user-specific data separation, and profile management. Technologies used were Swift UI, XCode, Firebase Authentication, Firebase Realtime Database/Cloud Firestore, Swift, and Git
+## Top 10 Frequent Words
+An C++ console application which reads files from a document and finds top 10 frequent words that is used in that document. Data structures and Algorithms were used.
 
-- **Skills** _Swift UI, XCode_, _Firebase_, _Git_
-- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/yip-yip) 
+- **Skills** _C++_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/top10frequentwords)
 
 
 ---
 
-## Multiple-Objective Routing Path Optimisation
-The goal is to find optimal routing paths from cars to base stations at either end of a motorway. The objectives are to maximise end-to-end data transmission rate and minimise end-to-end latency. The project employs Dijkstra’s and Genetic optimisation algorithms
+## Health Maintenance System
+This project is a computer system that will be used in the hospitals. HealthCare is a practice management software for opticians, optometrist and ophthalmologist, which leads to smooth working of eye care organization. “Health Care Maintenance” provides automated case management, patient scheduling, diagnosis notes, electronic mail integration to remind patient about their appointment, electronic revisit letter with paperless environment, Point of Sales (POS), inventory for spectacles, lenses, and sundries and unlimited custom and pre-built reports.
 
-- **Skills** _Python, Data Analysis_
-- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/Search-and-Optimisation/blob/main/Search_Optimisation_Final%5B1%5D.ipynb)
+- **Skills** _Software Development, UX Design, Project Management_
+
+---
+
+## Smashing Four Simulator
+Smashing Four is an online, card collectable, PvP multiplayer game where you build a squad of four smashing heroes and battle against other players in spectacular arenas. In a combat, up to 4 units fight
+with another up to 4 units in a turn-based fashion. The combat is divided into discrete rounds, and in each round, one unit of each team has a single turn where it uses one skill and arena shows its effect with a random chance
+
+- **Skills** _C++, Object Oriented Programming_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/Smashing-Four-Simulator)
+
+---
+
