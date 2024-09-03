@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: single  # or 'default', depending on your theme
 title: "Projects"
 permalink: /projects/
+sidebar:
+  - navigation  # This line ensures the sidebar is displayed
 ---
 
 # My Projects
@@ -27,4 +29,3 @@ permalink: /projects/
 
 - **Technologies Used:** List the main technologies.
 - **GitHub:** [View the project on GitHub](https://github.com/yasemxn/portfolioo/blob/master/_projects/projects/project3)
-
