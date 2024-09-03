@@ -17,15 +17,23 @@ sidebar:
 ---
 
 ## Movie Recommendation System
-**Description:** In this project, I employed a variety of artificial intelligence (AI) techniques to develop an advanced system using the IMDb dataset aimed at enhancing user experience by providing personalised movie recommendations. The project focused on integrating multiple AI models including collaborative filtering algorithms like cosine similarity, K-Nearest Neighbors, and advanced matrix factorisation methods like Singular Value Decomposition and neural network approaches like Neural Collaborative Filtering. Additionally, the system utilised content-based filtering to recommend movies based on their attributes, and hybrid approaches that combine the strengths of both methods. I implemented these models to analyse user behaviour and preferences effectively, managing to handle large datasets and improve recommendation accuracy as shown through metrics such as RMSE, MAE, precision, recall, and F1-score. This project highlighted my capabilities in handling complex AI algorithms and large datasets, contributing to a better understanding of user preferences in digital media consumption.
+In this project, I employed a variety of artificial intelligence (AI) techniques to develop an advanced system using the IMDb dataset aimed at enhancing user experience by providing personalised movie recommendations. The project focused on integrating multiple AI models including collaborative filtering algorithms like cosine similarity, K-Nearest Neighbors, and advanced matrix factorisation methods like Singular Value Decomposition and neural network approaches like Neural Collaborative Filtering. Additionally, the system utilised content-based filtering to recommend movies based on their attributes, and hybrid approaches that combine the strengths of both methods. I implemented these models to analyse user behaviour and preferences effectively, managing to handle large datasets and improve recommendation accuracy as shown through metrics such as RMSE, MAE, precision, recall, and F1-score. This project highlighted my capabilities in handling complex AI algorithms and large datasets, contributing to a better understanding of user preferences in digital media consumption.
 
-- **Technologies Used:** _Python, Data Analysis, PyTorch, Surprise, Tensorflow, Machine Learning_
+- **Skills** _Python, Data Analysis, PyTorch, Surprise, Tensorflow, Machine Learning_
 - **GitHub:** [View the project on GitHub](https://github.com/yasemxn/movie-recommendation-system/blob/main/Code_AI_Project_Yasemin.ipynb)
 
 ---
 
-## Project 3: [Third Project Title](https://github.com/yasemxn/portfolioo/blob/master/_projects/projects/project3)
-**Description:** A brief description of this project.
+## Data Processing and Analytics
+For this project, I played a pivotal role in designing and implementing a multifaceted database system from an initial Entity-Relationship model to its realisation in SQL, MongoDB, and Neo4J, focused on art gallery management. My responsibilities included crafting and evaluating numerous SQL and MongoDB test cases to ensure database functionality, enhancing data retrieval efficiency, and system robustness. Additionally, I applied advanced machine learning techniques, such as neural networks and random forests, to analyse datasets, performed feature selection, and employed PCA for dimensionality reduction, which significantly optimized model performance. My active participation in team discussions and detailed report documentation ensured that the project met academic standards and facilitated effective knowledge transfer.
 
-- **Technologies Used:** List the main technologies.
-- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/portfolioo/blob/master/_projects/projects/project3)
+- **Skills** _Python, Data Analysis, SQL, MongoDB, Database Management, Neo4J_
+- **Github** [View the project on GitHub](https://github.com/yasemxn/data-processing-and-analytics/blob/main/DPA_Project_Report_Final%5B1%5D%20(1).pdf)
+
+---
+
+## Multiple-Objective Routing Path Optimisation
+The goal is to find optimal routing paths from cars to base stations at either end of a motorway. The objectives are to maximise end-to-end data transmission rate and minimise end-to-end latency. The project employs Dijkstra’s and Genetic optimisation algorithms
+
+- **Skills** _Python, Data Analysis_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/Search-and-Optimisation/blob/main/Search_Optimisation_Final%5B1%5D.ipynb)
