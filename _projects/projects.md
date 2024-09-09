@@ -12,6 +12,7 @@ I developed a hybrid AI-human model utilising the OODA loop framework, which sig
 
 
 - **Skills** _Python, NLP, Data Science, Exploratory Data Analysis, Machine Learning, XAI_
+- **GitHub:** [View the project on GitHub](https://github.com/yasemxn/dissertation/blob/main/AI_Ticket_Support.ipynb)
 
 ---
 
