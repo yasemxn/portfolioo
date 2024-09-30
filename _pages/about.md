@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏻 Hello there! I'm Yasemin"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
